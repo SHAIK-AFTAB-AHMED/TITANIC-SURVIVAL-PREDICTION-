@@ -69,7 +69,7 @@ The models were evaluated using:
 
 A detailed project report containing methodology, implementation steps, preprocessing techniques, model training, evaluation, results, and analysis is available in:
 
-**Project_Report.pdf**
+**print_pdf/mlminiprojectdocumentation.pdf**
 
 ## Conclusion
 
